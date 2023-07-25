@@ -1,0 +1,709 @@
+.blacklist-dropdown-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.blacklist-dropdown-blacklistdropdown {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(230, 226, 185, 1);
+}
+.blacklist-dropdown-text {
+  top: 274px;
+  left: 273px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-group17svg {
+  top: 31px;
+  left: 0px;
+  width: 69px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-dropdown-nav-bar-tab {
+  top: 0px;
+  left: 0px;
+  width: 69px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(60, 130, 121, 1);
+}
+.blacklist-dropdown-group1 {
+  top: 17.5355224609375px;
+  left: 37.5355224609375px;
+  width: 14.142135620117188px;
+  height: 28.606597900390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-dropdown-line5 {
+  top: 14.142135620117188px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-line6 {
+  top: 14.464462280273438px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-group2 {
+  top: 18px;
+  left: 20px;
+  width: 14.142135620117188px;
+  height: 28.606597900390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-dropdown-line51 {
+  top: 14.142135620117188px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-line61 {
+  top: 14.464462280273438px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-blacklistedingredient {
+  top: 292px;
+  left: 273px;
+  width: 894px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-dropdown-rectangle8 {
+  top: 35px;
+  left: 0px;
+  width: 894px;
+  height: 65px;
+  position: absolute;
+  border-radius: 15px;
+}
+.blacklist-dropdown-text02 {
+  top: 52px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-line33 {
+  top: 70px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-line34 {
+  top: 0px;
+  left: 432px;
+  width: 462px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-blacklistedingredientbutton {
+  top: 485px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-dropdown-text04 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-line331 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-blacklistedingredientbutton1 {
+  top: 406px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-dropdown-text06 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-line332 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-blacklistedingredientbutton2 {
+  top: 801px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-dropdown-text08 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-line333 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-blacklistedingredientbutton3 {
+  top: 959px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-dropdown-text10 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-line334 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-blacklistedingredientbutton4 {
+  top: 880px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-dropdown-text12 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-line335 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-blacklistedingredientbutton5 {
+  top: 564px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-dropdown-text14 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-line336 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-blacklistedingredientbutton6 {
+  top: 722px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-dropdown-text16 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-line337 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-blacklistedingredientbutton7 {
+  top: 643px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-dropdown-text18 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-line338 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-rectangle73 {
+  top: 324px;
+  left: 1415px;
+  width: 203px;
+  height: 11px;
+  position: absolute;
+}
+.blacklist-dropdown-group17svg1 {
+  top: 38px;
+  left: 93px;
+  width: 176px;
+  height: 51px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-dropdown-text20 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-rectangle122 {
+  top: 209px;
+  left: 247px;
+  width: 946px;
+  height: 196px;
+  position: absolute;
+}
+.blacklist-dropdown-rectangle128svg {
+  top: 360px;
+  left: 247px;
+  width: 946px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.blacklist-dropdown-rectangle129svg {
+  top: 317px;
+  left: 247px;
+  width: 946px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.blacklist-dropdown-rectangle130svg {
+  top: 274px;
+  left: 247px;
+  width: 946px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.blacklist-dropdown-rectangle131svg {
+  top: 230px;
+  left: 247px;
+  width: 946px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.blacklist-dropdown-rectangle89svg {
+  top: 185px;
+  left: 247px;
+  width: 946px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(60, 130, 121, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 15px;
+}
+.blacklist-dropdown-text22 {
+  top: 194px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-text24 {
+  top: 239px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-text26 {
+  top: 283px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-text28 {
+  top: 327px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-group30button {
+  top: 240px;
+  left: 1152px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-dropdown-line35 {
+  top: 17px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-line36 {
+  top: 30px;
+  left: 17px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-group31button {
+  top: 281px;
+  left: 1152px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-dropdown-line351 {
+  top: 17px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-line361 {
+  top: 30px;
+  left: 17px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-group32button {
+  top: 325px;
+  left: 1152px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-dropdown-line352 {
+  top: 17px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-line362 {
+  top: 30px;
+  left: 17px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-text30 {
+  top: 368px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-dropdown-group33button {
+  top: 366px;
+  left: 1152px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-dropdown-line353 {
+  top: 17px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-line363 {
+  top: 30px;
+  left: 17px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-dropdown-group34button {
+  top: 913px;
+  left: 1226px;
+  width: 141px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(231, 108, 0, 1);
+}
+.blacklist-dropdown-text32 {
+  top: 10px;
+  left: 45px;
+  color: rgba(255, 244, 215, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

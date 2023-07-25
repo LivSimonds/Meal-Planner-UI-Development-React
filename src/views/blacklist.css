@@ -1,0 +1,492 @@
+.blacklist-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.blacklist-blacklist {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(230, 226, 185, 1);
+}
+.blacklist-rectangle89svg {
+  top: 185px;
+  left: 247px;
+  width: 946px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(60, 130, 121, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 15px;
+}
+.blacklist-text {
+  top: 194px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-text02 {
+  top: 274px;
+  left: 273px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-group17svg {
+  top: 31px;
+  left: 0px;
+  width: 69px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-nav-bar-tab {
+  top: 0px;
+  left: 0px;
+  width: 69px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(60, 130, 121, 1);
+}
+.blacklist-group1 {
+  top: 17.5355224609375px;
+  left: 37.5355224609375px;
+  width: 14.142135620117188px;
+  height: 28.606597900390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-line5 {
+  top: 14.142135620117188px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-line6 {
+  top: 14.464462280273438px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-group2 {
+  top: 18px;
+  left: 20px;
+  width: 14.142135620117188px;
+  height: 28.606597900390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-line51 {
+  top: 14.142135620117188px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-line61 {
+  top: 14.464462280273438px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-blacklistedingredientbutton {
+  top: 485px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-text04 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-line33 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-blacklistedingredientbutton1 {
+  top: 406px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-text06 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-line331 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-blacklistedingredientbutton2 {
+  top: 327px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-text08 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-line332 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-blacklistedingredientbutton3 {
+  top: 801px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-text10 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-line333 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-blacklistedingredientbutton4 {
+  top: 959px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-text12 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-line334 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-blacklistedingredientbutton5 {
+  top: 880px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-text14 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-line335 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-blacklistedingredientbutton6 {
+  top: 564px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-text16 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-line336 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-blacklistedingredientbutton7 {
+  top: 722px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-text18 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-line337 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-blacklistedingredientbutton8 {
+  top: 643px;
+  left: 273px;
+  width: 894px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.blacklist-text20 {
+  top: 17px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-line338 {
+  top: 35px;
+  left: 845px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.blacklist-rectangle73 {
+  top: 324px;
+  left: 1415px;
+  width: 203px;
+  height: 11px;
+  position: absolute;
+}
+.blacklist-group17svg1 {
+  top: 38px;
+  left: 93px;
+  width: 176px;
+  height: 51px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.blacklist-text22 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blacklist-group34button {
+  top: 913px;
+  left: 1226px;
+  width: 141px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(231, 108, 0, 1);
+}
+.blacklist-text24 {
+  top: 10px;
+  left: 45px;
+  color: rgba(255, 244, 215, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

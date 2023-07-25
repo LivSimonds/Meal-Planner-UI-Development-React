@@ -1,0 +1,812 @@
+.favorite-recipes-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.favorite-recipes-favorite {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(230, 226, 185, 1);
+}
+.favorite-recipes-nav-bar-tabbutton {
+  top: 31px;
+  left: 0px;
+  width: 69px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(60, 130, 121, 1);
+}
+.favorite-recipes-group1 {
+  top: 17.5355224609375px;
+  left: 37.5355224609375px;
+  width: 14.142135620117188px;
+  height: 28.606597900390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-line5 {
+  top: 14.142135620117188px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-line6 {
+  top: 14.464462280273438px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-group2 {
+  top: 18px;
+  left: 20px;
+  width: 14.142135620117188px;
+  height: 28.606597900390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-line51 {
+  top: 14.142135620117188px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-line61 {
+  top: 14.464462280273438px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-text {
+  top: 38px;
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-group40button {
+  top: 164px;
+  left: 128px;
+  width: 1184px;
+  height: 238px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-dish1 {
+  top: 0px;
+  left: 0px;
+  width: 1184px;
+  height: 238px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-rectangle40 {
+  top: 36px;
+  left: 0px;
+  width: 1184px;
+  height: 202px;
+  position: absolute;
+  border-radius: 20px;
+}
+.favorite-recipes-rectangle44 {
+  top: 36px;
+  left: 0px;
+  width: 773px;
+  height: 202px;
+  position: absolute;
+  border-radius: 20px 0 0 20px;
+}
+.favorite-recipes-text02 {
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  width: 214px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-text04 {
+  top: 115px;
+  left: 229px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-group15 {
+  top: 60px;
+  left: 1138px;
+  width: 21.21320343017578px;
+  height: 21.21337890625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-line26 {
+  top: 21.21337890625px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-line27 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-rectangle108 {
+  top: 119px;
+  left: 964px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text09 {
+  top: 123px;
+  left: 954px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle109 {
+  top: 73px;
+  left: 964px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text11 {
+  top: 78px;
+  left: 954px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle110 {
+  top: 169px;
+  left: 964px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text13 {
+  top: 173px;
+  left: 1020px;
+  color: rgba(0, 0, 0, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-line16 {
+  top: 192px;
+  left: 1003px;
+  width: 14px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-line17 {
+  top: 185px;
+  left: 995px;
+  width: 16px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-text15 {
+  top: 71px;
+  left: 824px;
+  color: rgba(0, 0, 0, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle119 {
+  top: 72px;
+  left: 814px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text17 {
+  top: 75px;
+  left: 814px;
+  color: rgba(0, 0, 0, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle120 {
+  top: 119px;
+  left: 814px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text19 {
+  top: 124px;
+  left: 804px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-group41input {
+  top: 447px;
+  left: 128px;
+  width: 1184px;
+  height: 238px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-dish11 {
+  top: 0px;
+  left: 0px;
+  width: 1184px;
+  height: 238px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-rectangle401 {
+  top: 36px;
+  left: 0px;
+  width: 1184px;
+  height: 202px;
+  position: absolute;
+  border-radius: 20px;
+}
+.favorite-recipes-rectangle441 {
+  top: 36px;
+  left: 0px;
+  width: 773px;
+  height: 202px;
+  position: absolute;
+  border-radius: 20px 0 0 20px;
+}
+.favorite-recipes-text21 {
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  width: 214px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-text23 {
+  top: 115px;
+  left: 229px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-group151 {
+  top: 60px;
+  left: 1138px;
+  width: 21.21320343017578px;
+  height: 21.21337890625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-line261 {
+  top: 21.21337890625px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-line271 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-rectangle1081 {
+  top: 119px;
+  left: 964px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text28 {
+  top: 123px;
+  left: 954px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle1091 {
+  top: 73px;
+  left: 964px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text30 {
+  top: 78px;
+  left: 954px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle1101 {
+  top: 169px;
+  left: 964px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text32 {
+  top: 173px;
+  left: 1020px;
+  color: rgba(0, 0, 0, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-line161 {
+  top: 192px;
+  left: 1003px;
+  width: 14px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-line171 {
+  top: 185px;
+  left: 995px;
+  width: 16px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-text34 {
+  top: 71px;
+  left: 824px;
+  color: rgba(0, 0, 0, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle1191 {
+  top: 72px;
+  left: 814px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text36 {
+  top: 75px;
+  left: 814px;
+  color: rgba(0, 0, 0, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle1201 {
+  top: 119px;
+  left: 814px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text38 {
+  top: 124px;
+  left: 804px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-group42input {
+  top: 730px;
+  left: 128px;
+  width: 1184px;
+  height: 238px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-dish12 {
+  top: 0px;
+  left: 0px;
+  width: 1184px;
+  height: 238px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-rectangle402 {
+  top: 36px;
+  left: 0px;
+  width: 1184px;
+  height: 202px;
+  position: absolute;
+  border-radius: 20px;
+}
+.favorite-recipes-rectangle442 {
+  top: 36px;
+  left: 0px;
+  width: 773px;
+  height: 202px;
+  position: absolute;
+  border-radius: 20px 0 0 20px;
+}
+.favorite-recipes-text40 {
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  width: 214px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-text42 {
+  top: 115px;
+  left: 229px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-group152 {
+  top: 60px;
+  left: 1138px;
+  width: 21.21320343017578px;
+  height: 21.21337890625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.favorite-recipes-line262 {
+  top: 21.21337890625px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-line272 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-rectangle1082 {
+  top: 119px;
+  left: 964px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text47 {
+  top: 123px;
+  left: 954px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle1092 {
+  top: 73px;
+  left: 964px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text49 {
+  top: 78px;
+  left: 954px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle1102 {
+  top: 169px;
+  left: 964px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text51 {
+  top: 173px;
+  left: 1020px;
+  color: rgba(0, 0, 0, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-line162 {
+  top: 192px;
+  left: 1003px;
+  width: 14px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-line172 {
+  top: 185px;
+  left: 995px;
+  width: 16px;
+  height: 1px;
+  position: absolute;
+}
+.favorite-recipes-text53 {
+  top: 71px;
+  left: 824px;
+  color: rgba(0, 0, 0, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle1192 {
+  top: 72px;
+  left: 814px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text55 {
+  top: 75px;
+  left: 814px;
+  color: rgba(0, 0, 0, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favorite-recipes-rectangle1202 {
+  top: 119px;
+  left: 814px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.favorite-recipes-text57 {
+  top: 124px;
+  left: 804px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

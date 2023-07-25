@@ -1,0 +1,165 @@
+.sign-in1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.sign-in1-sign-in3 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(230, 226, 185, 1);
+}
+.sign-in1-text {
+  top: 259px;
+  left: 572px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in1-text02 {
+  top: 755px;
+  left: 579px;
+  color: rgba(124, 115, 92, 1);
+  width: 265px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in1-text03 {
+  color: rgba(124, 115, 92, 1);
+}
+.sign-in1-text04 {
+  color: rgba(131, 122, 97, 1);
+}
+.sign-in1-arrow1 {
+  top: 1024px;
+  left: 720px;
+  width: 185px;
+  height: 1px;
+  position: absolute;
+}
+.sign-in1-rectangle93 {
+  top: 396px;
+  left: 429px;
+  width: 579px;
+  height: 90px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 25px;
+}
+.sign-in1-rectangle94 {
+  top: 503px;
+  left: 432px;
+  width: 579px;
+  height: 90px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 25px;
+}
+.sign-in1-text06 {
+  top: 424px;
+  left: 462px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in1-text08 {
+  top: 531px;
+  left: 464px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in1-text10 {
+  top: 602px;
+  left: 731px;
+  color: rgba(0, 0, 0, 1);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in1-group37 {
+  top: 652px;
+  left: 645px;
+  width: 146px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(231, 108, 0, 1);
+}
+.sign-in1-text12 {
+  top: 6px;
+  left: 26px;
+  color: rgba(255, 244, 215, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in1-line37 {
+  top: 728px;
+  left: 459px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}

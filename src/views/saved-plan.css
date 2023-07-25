@@ -1,0 +1,1075 @@
+.saved-plan-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.saved-plan-savedplans {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(230, 226, 185, 1);
+}
+.saved-plan-plan2 {
+  top: 141px;
+  left: 128px;
+  width: 1184px;
+  height: 310px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.saved-plan-text {
+  top: 48.84264373779297px;
+  left: 39px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-plan7svg {
+  top: 141px;
+  left: 128px;
+  width: 1184px;
+  height: 310px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.saved-plan-text02 {
+  top: 48.84264373779297px;
+  left: 39px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-recipe-postbutton {
+  top: 264px;
+  left: 184px;
+  width: 320px;
+  height: 187px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px 20px 0 0;
+  background-color: rgba(113, 182, 162, 1);
+}
+.saved-plan-berry-sundae {
+  top: 317.3579406738281px;
+  left: 69.03356170654297px;
+  width: 183px;
+  height: 26px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle86 {
+  top: 354px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegan {
+  top: 365.0539855957031px;
+  left: 55.7210578918457px;
+  width: 50px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8601 {
+  top: 390px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegetarian {
+  top: 399.5px;
+  left: 36.1575813293457px;
+  width: 88px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle87 {
+  top: 385px;
+  left: 169px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-glutenfree {
+  top: 363.2954406738281px;
+  left: 187.7925262451172px;
+  width: 93px;
+  height: 18px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle102 {
+  top: 50px;
+  left: 0px;
+  width: 320px;
+  height: 137px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-rectangle103 {
+  top: 107px;
+  left: 0px;
+  width: 320px;
+  height: 113px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-text04 {
+  top: 7px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text06 {
+  top: 64px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text08 {
+  top: 121px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-recipe-postbutton1 {
+  top: 264px;
+  left: 560px;
+  width: 320px;
+  height: 187px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px 20px 0 0;
+  background-color: rgba(113, 182, 162, 1);
+}
+.saved-plan-berry-sundae1 {
+  top: 317.3579406738281px;
+  left: 69.03356170654297px;
+  width: 183px;
+  height: 26px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8602 {
+  top: 354px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegan1 {
+  top: 365.0539855957031px;
+  left: 55.7210578918457px;
+  width: 50px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8603 {
+  top: 390px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegetarian1 {
+  top: 399.5px;
+  left: 36.1575813293457px;
+  width: 88px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle871 {
+  top: 385px;
+  left: 169px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-glutenfree1 {
+  top: 363.2954406738281px;
+  left: 187.7925262451172px;
+  width: 93px;
+  height: 18px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle1021 {
+  top: 50px;
+  left: 0px;
+  width: 320px;
+  height: 137px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-rectangle1031 {
+  top: 107px;
+  left: 0px;
+  width: 320px;
+  height: 113px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-text10 {
+  top: 7px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text12 {
+  top: 64px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text14 {
+  top: 121px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-recipe-postbutton2 {
+  top: 264px;
+  left: 934px;
+  width: 320px;
+  height: 187px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px 20px 0 0;
+  background-color: rgba(113, 182, 162, 1);
+}
+.saved-plan-berry-sundae2 {
+  top: 317.3579406738281px;
+  left: 69.03356170654297px;
+  width: 183px;
+  height: 26px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8604 {
+  top: 354px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegan2 {
+  top: 365.0539855957031px;
+  left: 55.7210578918457px;
+  width: 50px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8605 {
+  top: 390px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegetarian2 {
+  top: 399.5px;
+  left: 36.1575813293457px;
+  width: 88px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle872 {
+  top: 385px;
+  left: 169px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-glutenfree2 {
+  top: 363.2954406738281px;
+  left: 187.7925262451172px;
+  width: 93px;
+  height: 18px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle1022 {
+  top: 50px;
+  left: 0px;
+  width: 320px;
+  height: 137px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-rectangle1032 {
+  top: 107px;
+  left: 0px;
+  width: 320px;
+  height: 113px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-text16 {
+  top: 7px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text18 {
+  top: 64px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text20 {
+  top: 121px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-plan8svg {
+  top: 509px;
+  left: 128px;
+  width: 1184px;
+  height: 310px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.saved-plan-text22 {
+  top: 48.84264373779297px;
+  left: 39px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-recipe-postbutton3 {
+  top: 632px;
+  left: 184px;
+  width: 320px;
+  height: 187px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px 20px 0 0;
+  background-color: rgba(113, 182, 162, 1);
+}
+.saved-plan-berry-sundae3 {
+  top: 317.3579406738281px;
+  left: 69.03356170654297px;
+  width: 183px;
+  height: 26px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8606 {
+  top: 354px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegan3 {
+  top: 365.0539855957031px;
+  left: 55.7210578918457px;
+  width: 50px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8607 {
+  top: 390px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegetarian3 {
+  top: 399.5px;
+  left: 36.1575813293457px;
+  width: 88px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle873 {
+  top: 385px;
+  left: 169px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-glutenfree3 {
+  top: 363.2954406738281px;
+  left: 187.7925262451172px;
+  width: 93px;
+  height: 18px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle1023 {
+  top: 50px;
+  left: 0px;
+  width: 320px;
+  height: 137px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-rectangle1033 {
+  top: 107px;
+  left: 0px;
+  width: 320px;
+  height: 113px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-text24 {
+  top: 7px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text26 {
+  top: 64px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text28 {
+  top: 121px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-recipe-postbutton4 {
+  top: 632px;
+  left: 560px;
+  width: 320px;
+  height: 187px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px 20px 0 0;
+  background-color: rgba(113, 182, 162, 1);
+}
+.saved-plan-berry-sundae4 {
+  top: 317.3579406738281px;
+  left: 69.03356170654297px;
+  width: 183px;
+  height: 26px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8608 {
+  top: 354px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegan4 {
+  top: 365.0539855957031px;
+  left: 55.7210578918457px;
+  width: 50px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8609 {
+  top: 390px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegetarian4 {
+  top: 399.5px;
+  left: 36.1575813293457px;
+  width: 88px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle874 {
+  top: 385px;
+  left: 169px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-glutenfree4 {
+  top: 363.2954406738281px;
+  left: 187.7925262451172px;
+  width: 93px;
+  height: 18px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle1024 {
+  top: 50px;
+  left: 0px;
+  width: 320px;
+  height: 137px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-rectangle1034 {
+  top: 107px;
+  left: 0px;
+  width: 320px;
+  height: 113px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-text30 {
+  top: 7px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text32 {
+  top: 64px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text34 {
+  top: 121px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-recipe-postbutton5 {
+  top: 632px;
+  left: 934px;
+  width: 320px;
+  height: 187px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px 20px 0 0;
+  background-color: rgba(113, 182, 162, 1);
+}
+.saved-plan-berry-sundae5 {
+  top: 317.3579406738281px;
+  left: 69.03356170654297px;
+  width: 183px;
+  height: 26px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8610 {
+  top: 354px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegan5 {
+  top: 365.0539855957031px;
+  left: 55.7210578918457px;
+  width: 50px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle8611 {
+  top: 390px;
+  left: 16px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-vegetarian5 {
+  top: 399.5px;
+  left: 36.1575813293457px;
+  width: 88px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle875 {
+  top: 385px;
+  left: 169px;
+  width: 130px;
+  height: 31px;
+  position: absolute;
+}
+.saved-plan-glutenfree5 {
+  top: 363.2954406738281px;
+  left: 187.7925262451172px;
+  width: 93px;
+  height: 18px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.saved-plan-rectangle1025 {
+  top: 50px;
+  left: 0px;
+  width: 320px;
+  height: 137px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-rectangle1035 {
+  top: 107px;
+  left: 0px;
+  width: 320px;
+  height: 113px;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.saved-plan-text36 {
+  top: 7px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text38 {
+  top: 64px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-text40 {
+  top: 121px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-group9 {
+  top: 533px;
+  left: 1258px;
+  width: 21.21320343017578px;
+  height: 21.21337890625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.saved-plan-line26 {
+  top: 21.21337890625px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-line27 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-group11 {
+  top: 160px;
+  left: 1258px;
+  width: 21.21320343017578px;
+  height: 21.21337890625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.saved-plan-line261 {
+  top: 21.21337890625px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-line271 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-plan6svg {
+  top: 877px;
+  left: 128px;
+  width: 1184px;
+  height: 311px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 246, 227, 1);
+}
+.saved-plan-text42 {
+  top: 49px;
+  left: 39px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.saved-plan-group10 {
+  top: 901px;
+  left: 1258px;
+  width: 21.21320343017578px;
+  height: 21.21337890625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.saved-plan-line262 {
+  top: 21.21337890625px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-line272 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-rectangle72 {
+  top: 293px;
+  left: 1420px;
+  width: 203px;
+  height: 11px;
+  position: absolute;
+}
+.saved-plan-group14button {
+  top: 31px;
+  left: 0px;
+  width: 343px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.saved-plan-nav-bar-tab {
+  top: 0px;
+  left: 0px;
+  width: 69px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(60, 130, 121, 1);
+}
+.saved-plan-group1 {
+  top: 17.5355224609375px;
+  left: 37.5355224609375px;
+  width: 14.142135620117188px;
+  height: 28.606597900390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.saved-plan-line5 {
+  top: 14.142135620117188px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-line6 {
+  top: 14.464462280273438px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-group2 {
+  top: 18px;
+  left: 20px;
+  width: 14.142135620117188px;
+  height: 28.606597900390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.saved-plan-line51 {
+  top: 14.142135620117188px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-line61 {
+  top: 14.464462280273438px;
+  left: 14.142135620117188px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.saved-plan-text44 {
+  top: 7px;
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
